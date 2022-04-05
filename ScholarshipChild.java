@@ -1,8 +1,5 @@
 /**
-Name: Joseph Roesch
-Date: 4/7/2019
-Course/Section: IT206.003
-Assignment 6
+
 Description:
 This programs allows a user to input a child, enroll a child, remove a child, print the record for a child, and calculate
 the cost for their enrollment. It will store the Child/ScholarshipChild objects in arrays. It will allow the program to
